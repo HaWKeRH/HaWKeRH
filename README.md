@@ -1,2 +1,2 @@
-<h1 style = "font: 10px">totoro</h1>
+<h1 style = "font: 1px">totoro</h1>
 
