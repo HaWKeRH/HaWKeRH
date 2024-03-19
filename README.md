@@ -1,8 +1,2 @@
-<h1>totoro</h1>
-
-<style>
-  h1{
-    color: red;
-  }
-</style>
+<h1 style = "color :  red">totoro</h1>
 
